@@ -4,6 +4,8 @@
 
 * 资源
     - [阮一峰React技术栈教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+    - [极客学院React系列](http://wiki.jikexueyuan.com/list/react/)
+    - [官方文档](https://facebook.github.io/react/)
 * 时间
     - 1h/day
 * 监督模式
