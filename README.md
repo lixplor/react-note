@@ -11,6 +11,20 @@
 * 监督模式
     - Github提交学习内容打卡
 * 任务分解
+    - [ ] [官方文档](https://facebook.github.io/react/)
+        - [x] [安装](https://facebook.github.io/react/docs/installation.html)
+        - [x] [Hello World](https://facebook.github.io/react/docs/hello-world.html)
+        - [x] [JSX介绍](https://facebook.github.io/react/docs/introducing-jsx.html)
+        - [x] [渲染元素](https://facebook.github.io/react/docs/rendering-elements.html)
+        - [x] [组件和props](https://facebook.github.io/react/docs/components-and-props.html)
+        - [ ] [state和生命周期](https://facebook.github.io/react/docs/state-and-lifecycle.html)
+        - [ ] [处理事件](https://facebook.github.io/react/docs/handling-events.html)
+        - [ ] [条件化渲染](https://facebook.github.io/react/docs/conditional-rendering.html)
+        - [ ] [列表和键](https://facebook.github.io/react/docs/lists-and-keys.html)
+        - [ ] [表单](https://facebook.github.io/react/docs/forms.html)
+        - [ ] [状态提升](https://facebook.github.io/react/docs/lifting-state-up.html)
+        - [ ] [组合和继承](https://facebook.github.io/react/docs/composition-vs-inheritance.html)
+        - [ ] [用React思考](https://facebook.github.io/react/docs/thinking-in-react.html)
     - [ ] [阮一峰React技术栈教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
         - [ ] [ES6语法](http://es6.ruanyifeng.com/)
         - [ ] [Babel](http://www.ruanyifeng.com/blog/2016/01/babel.html)
